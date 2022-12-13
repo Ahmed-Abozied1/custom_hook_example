@@ -50,12 +50,6 @@ function App() {
         <Button variant="outline-success">Search</Button>
       </Form>
 
-      {/* ***useRef() */}
-      {/* <div>
-
-     <p>current term : {term}</p>
-      <p>pervious term :{pervTerm}</p>
-     </div> */}
       <Table striped bordered hover className="m-5">
         <thead>
           <tr>
